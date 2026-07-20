@@ -1,4 +1,4 @@
-## Git Calendar - try now: [git-calendar.firu.dev](https://git-calendar.firu.dev)
+## Git Calendar - try now: [git-calendar.org](https://git-calendar.org)
 
 ### Key Features
 - **Git-powered**: Your calendar data lives in a standard Git repository (with full version history).
