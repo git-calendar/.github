@@ -11,6 +11,7 @@
 ### Components
 - [core](https://github.com/git-calendar/core): Shared Go library handling Git operations, encryption, and calendar logic.
 - [web-client](https://github.com/git-calendar/web-client): Responsive Vue-based web client.
+- [cors-proxy](https://github.com/git-calendar/cors-proxy): A small proxy that adds CORS headers to Git-over-HTTP.
 - [documentation](https://git-calendar.github.io/documentation): Project docs.
 - [demo-calendar](https://github.com/git-calendar/demo-calendar): Sample repository you can clone to see how it works.
 
